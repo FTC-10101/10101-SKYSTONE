@@ -13,7 +13,7 @@ import java.io.File;
 public class OdometryGlobalCoordinatePosition implements Runnable{
     //Odometry wheels
     private DcMotor verticalEncoderLeft, verticalEncoderRight, horizontalEncoder;
-
+    // hello max
     //Thead run condition
     private boolean isRunning = true;
 
